@@ -1,0 +1,119 @@
+{
+  "idCanco": 3,
+  "nomCanco": "La Rusalia",
+  "codiAutora": "e6EDQ692z",
+  "isPrivate": false,
+  "numReproduccions": 0,
+  "notes": [
+    {
+      "nota": "Do",
+      "inici": 2444,
+      "fi": 2722
+    },
+    {
+      "nota": "Mi",
+      "inici": 2454,
+      "fi": 2722
+    },
+    {
+      "nota": "Re",
+      "inici": 3023,
+      "fi": 3305
+    },
+    {
+      "nota": "Fa",
+      "inici": 3039,
+      "fi": 3305
+    },
+    {
+      "nota": "Mi",
+      "inici": 3599,
+      "fi": 4364
+    },
+    {
+      "nota": "Sol",
+      "inici": 3614,
+      "fi": 4364
+    },
+    {
+      "nota": "Sol",
+      "inici": 4737,
+      "fi": 4992
+    },
+    {
+      "nota": "Mi",
+      "inici": 4747,
+      "fi": 4992
+    },
+    {
+      "nota": "Mi",
+      "inici": 5322,
+      "fi": 5547
+    },
+    {
+      "nota": "Sol",
+      "inici": 5357,
+      "fi": 5547
+    },
+    {
+      "nota": "Mi",
+      "inici": 5856,
+      "fi": 6102
+    },
+    {
+      "nota": "Sol",
+      "inici": 5866,
+      "fi": 6102
+    },
+    {
+      "nota": "Fa",
+      "inici": 7270,
+      "fi": 7581
+    },
+    {
+      "nota": "La",
+      "inici": 7280,
+      "fi": 7581
+    },
+    {
+      "nota": "La",
+      "inici": 7890,
+      "fi": 8120
+    },
+    {
+      "nota": "Fa",
+      "inici": 7900,
+      "fi": 8120
+    },
+    {
+      "nota": "Sol",
+      "inici": 8485,
+      "fi": 8800
+    },
+    {
+      "nota": "Mi",
+      "inici": 8494,
+      "fi": 8800
+    },
+    {
+      "nota": "Re",
+      "inici": 9139,
+      "fi": 9380
+    },
+    {
+      "nota": "Fa",
+      "inici": 9149,
+      "fi": 9380
+    },
+    {
+      "nota": "Do",
+      "inici": 9828,
+      "fi": 11022
+    },
+    {
+      "nota": "Mi",
+      "inici": 9839,
+      "fi": 11022
+    }
+  ]
+}

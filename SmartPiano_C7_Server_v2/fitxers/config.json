@@ -1,0 +1,8 @@
+{
+  "user": "root",
+  "socketport": 12345,
+  "password": "12345",
+  "url": "jdbc:mysql://localhost",
+  "db": "smartpiano",
+  "port": 3306
+}

@@ -1,0 +1,54 @@
+{
+  "idCanco": 2,
+  "nomCanco": "El retorno de Mozart",
+  "codiAutora": "e6EDQ692z",
+  "isPrivate": false,
+  "numReproduccions": 0,
+  "notes": [
+    {
+      "nota": "Sol",
+      "inici": 2173,
+      "fi": 3733
+    },
+    {
+      "nota": "Do",
+      "inici": 2183,
+      "fi": 3733
+    },
+    {
+      "nota": "Re",
+      "inici": 4641,
+      "fi": 6230
+    },
+    {
+      "nota": "Fa",
+      "inici": 4652,
+      "fi": 6230
+    },
+    {
+      "nota": "Mi",
+      "inici": 6856,
+      "fi": 7914
+    },
+    {
+      "nota": "La",
+      "inici": 8693,
+      "fi": 10127
+    },
+    {
+      "nota": "Sol",
+      "inici": 10696,
+      "fi": 10787
+    },
+    {
+      "nota": "Do",
+      "inici": 14828,
+      "fi": 16213
+    },
+    {
+      "nota": "Sol",
+      "inici": 14913,
+      "fi": 16214
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "idCanco": 1,
+  "nomCanco": "Cançó Super Xuli",
+  "codiAutora": "e6EDQ692z",
+  "isPrivate": true,
+  "numReproduccions": 0,
+  "notes": [
+    {
+      "nota": "Do",
+      "inici": 2107,
+      "fi": 2567
+    },
+    {
+      "nota": "Re",
+      "inici": 2816,
+      "fi": 3296
+    },
+    {
+      "nota": "Mi",
+      "inici": 3525,
+      "fi": 4166
+    },
+    {
+      "nota": "Fa",
+      "inici": 4340,
+      "fi": 4861
+    },
+    {
+      "nota": "Sol",
+      "inici": 5096,
+      "fi": 5770
+    }
+  ]
+}
